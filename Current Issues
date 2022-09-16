@@ -1,0 +1,35 @@
+Using Instructions from AET Labs, we are currently able to connect the machine to the CNC Train application and run the test program that was left by the person who trained us. It cuts a star pattern into pieces of Corian countertop, that are 100mm by 100mm. 
+
+What We Can Do
+
+	Connect the machine to the CNC Train app
+
+	Run the test program Adam left for us (it cuts a star shape into the Corian)
+
+	Trace an image, and turn it into a DXF
+
+ 	Image to G-Code
+
+		Image to DXF
+
+		DXF to Toolpath in CNC Design
+
+		Toolpath to G-Code
+
+	Set a Datum on the machine
+
+What We Cannot Do
+	
+	Successfully run G-Codes we have created
+	
+	Save a workpiece home
+
+Problems
+
+	Over Travel on Y-Axis
+
+	Datum resets every power cycle
+
+	CNC Train crashes very easily
+	
+	5mm slot drill tool gets deleted every power cycle
